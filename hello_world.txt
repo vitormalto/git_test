@@ -1,1 +1,3 @@
 Hello, I'm learning to code!
+
+Testing a new way to commit.
